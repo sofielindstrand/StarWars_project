@@ -1,0 +1,77 @@
+[
+    {
+        "Titel": "STAR WARS Episode IV A New Hope",
+        "Reggisör": "George Lucas",
+        "Skapad": "1977",
+        "Episod": "IV",
+        "Karaktärer": "Darth Vader, Han Solo, Luke Skywalker, Grand Moff Tarkin, Grand Moff Tarkin",
+        "Beskrivning": "Inbördeskrig råder i galaxen. Rebellerna har stulit ritningarna till Rymdimperiets beväpnade rymdstation Dödsstjärnan. Prinsessan Leia är i besittning av ritningarna, men hennes rymdfarkost bordas av imperietrupper under befäl av Darth Vader. Innan hon tillfångatas, gömmer Leia ritningarna och ett meddelande i minnet på roboten R2-D2. Tillsammans med kompanjonen C-3PO flyr R2-D2 till en närliggande ökenplanet.",
+        "picurl": "https://images-na.ssl-images-amazon.com/images/I/81w4kfIpSjL._SY445_.jpg"
+    },
+    {
+        "Titel": "STAR WARS Episode V The Empire Strikes Back",
+        "Reggisör": "Irvin Kershner",
+        "Skapad": "1980",
+        "Episod": "V",
+        "Karaktärer": "Princess Leia, Chewbacca, Snow Creature, Boba Fett, Luke Skywalker",
+        "Beskrivning": "Filmen utspelar sig tre år efter föregångaren Stjärnornas krig. Efter slaget vid Yavin har Rebellerna jagats av Rymdimperiet och har därför byggt en ny bas på den avlägsna snöplaneten Hoth. Rymdimperiet får genom sina rymdsonder reda på rebellbasens position och inleder en markattack. ",
+        "picurl": "https://static1.squarespace.com/static/56b43c0a27d4bd06b908e249/57a0e2af29687f20d4028a13/58071ca7197aeafadf8181f4/1489740237332/Star-wars-empire-strikes-back-poster.jpg?format=1000w" 
+    },
+    {
+        "Titel": "STAR WARS Episode VI Return of the Jedi",
+        "Reggisör": "Richard Marquand",
+        "Skapad": "1983",
+        "Episod": "VI",
+        "Karaktärer": "Lando Calrissian, Chewbacca, Darth Vader, Princess Leia, Luke Skywalker",
+        "Beskrivning": "Luke Skywalker och hans vänner befinner sig åter på ökenplaneten Tatooine, för att där rädda Han Solo ifrån maffiabossen Jabba the Hutts palats.",
+        "picurl": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+    },
+    {
+        "Titel": "STAR WARS Episode I The Phantom Menace",
+        "Reggisör": "George Lucas",
+        "Skapad": "1999",
+        "Episod": "I",
+        "Karaktärer": "Qui-Gon Jinn, Captain Panaka, Boss Nass, Shmi Skywalker, Yoda",
+        "Beskrivning": "Galaktiska republiken är i en period av nedgång. Som svar på en beskattning av handelsvägar, organiserar Handelsfederationen en blockad av slagskepp runt planeten Naboo.",
+        "picurl": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+    },
+    {
+        "Titel": "STAR WARS Episode II Attack of the Clones",
+        "Reggisör": "George Lucas",
+        "Skapad": "2002",
+        "Episod": "II",
+        "Karaktärer": "Padmé, Mace Windu, Supreme Chancellor Palpatine, Jango Fett, Dormé",
+        "Beskrivning": "Den Galaktiska republiken är i kaos, efter invasionen av Naboo tio år tidigare, och Greve Dooku (Christopher Lee) har nu organiserat en separatistisk rörelse mot Republiken. Republiken, i hopp om att skapa en armé för att hjälpa Jediriddarna, får senatorn Padmé Amidala att återvända till Coruscant för att rösta. Vid sin ankomst lyckas hon undkomma ett mordförsök.",
+        "picurl": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/271253/271253._SX360_QL80_TTD_.jpg"
+    },
+    {
+        "Titel": "STAR WARS Episode Episode III Revenge of the Sith",
+        "Reggisör": "George Lucas",
+        "Skapad": "2005",
+        "Episod": "III",
+        "Karaktärer": "Count Dooku, Obi-Wan Kenobi, Padmé, C-3PO, Tion Medon",
+        "Beskrivning": "Klonkriget rasar i galaxen. Republiken kämpar mot greve Dooku och hans arméer av stridsrobotar, då en flotta under ledning av general Grievous stormar republikens huvudplanet Coruscant och kidnappar överkansler Palpatine. Jediriddarna Anakin Skywalker och Obi-Wan Kenobi sänds till striden för att undsätta den kidnappade kanslern. Jakten efter Palpatine leder till en slutgiltig strid med Dooku, vilket slutar med att Anakin besegrar och dödar honom. På vägen från skeppet blir de fångade och förda till Grievous. Lyckligtvis lyckas de att sätta fienden ur spel, men Grievous flyr undan skeppet, som störtar ner mot planeten. Äventyret slutar med att Anakin och Obi-Wan lyckas nödlanda det störtande skeppet på en av planetens landningsbanor.",
+        "picurl": "https://www.hometheaterseattle.com/assets/images/movies/star-wars-episode-iii---revenge-of-the-sith-movie-poster-2005.jpg"
+    },
+    {
+        "Titel": "STAR WARS Episode VII The Force Awakens",
+        "Reggisör": "J. J. Abrams",
+        "Skapad": "2015",
+        "Episod": "VII",
+        "Karaktärer": "Han Solo, Luke Skywalker, Kylo Ren, Rey, Princess Leia",
+        "Beskrivning": "Handlingen utspelar sig ungefär 30 år efter Jedins återkomst och Darth Vaders och Darth Sidious död.[18] Den fokuserar på en trio unga huvudrollsinnehavare, samt ett flertal kända ansikten från tidigare filmer.[",
+        "picurl": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SY1000_CR0,0,677,1000_AL_.jpg"
+    },
+    {
+        "Titel": "STAR WARS Episode VIII The Last Jedi",
+        "Reggisör": "Rian Johnson",
+        "Skapad": "2017",
+        "Episod": "VIII",
+        "Karaktärer": "Leia Organa, Kylo Ren, Rey, Finn, Poe Dameron",
+        "Beskrivning": "Rey befinner sig Lukes ö för att lära sig mer om kraften och för att få hjälp i kriget mot ” the first order”. Luke vägrar att lära henne att bli en Jedi eftersom Kylo Ren gick över till den mörka sidan när han tränade honom, men går motvilligt med på att visa henne kraften till slut.",
+        "picurl": "https://viveteruel.com/wp-content/uploads/2017/11/the-last-jedi-viveteruel-2017.jpg"
+    }
+
+]
+
+
